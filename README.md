@@ -23,3 +23,10 @@ Finally, the webpage concludes with a footer that has a contrasting dark backgro
 Throughout the design, I ensured consistency by applying harmonious colors with gold and navy blue tones, and using spacing and shadows to create a modern, elegant look. Responsive design considerations like flexible layouts and grid layouts along with hovering changes for an apealling view
 
 A personal portfolio website is very useful for showcasing one’s skills, projects, and personality—especially as a fresher applying for internships. It provides recruiters a quick yet detailed look at the candidate’s capabilities including hands-on experience and creativity.
+![Screenshot 2025-06-09 144007](https://github.com/user-attachments/assets/5c56301b-bce2-4ddc-bc14-8588e81e0dc7)
+![Screenshot 2025-06-09 143931](https://github.com/user-attachments/assets/bbeb0de1-5e39-4052-85e8-803f796f5e9e)
+![Screenshot 2025-06-09 144044](https://github.com/user-attachments/assets/ecdfa2b8-4531-49bf-a919-0dd2a6d7b1ba)
+![Screenshot 2025-06-09 144025](https://github.com/user-attachments/assets/adbb90ee-ed78-4a98-ae55-aa792285c8b6)
+
+
+
